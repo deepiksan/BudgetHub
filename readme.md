@@ -12,10 +12,10 @@ This solution contains 5 components with their functionalities  mentioned below.
 
 This component generates different configurations that is required by the Graph Generator for creating multiple graph topologies. The following choices were made for the configurations:
 
-a. Graph type : Connected
-b. Vertex count (V) : ranging from 10 to 1000
-c. Edge count (E) : ranging from V-1 to (V(V+1)/2)
-d. Weighted? : No
+A. Graph type : Connected
+B. Vertex count (V) : ranging from 10 to 1000
+C. Edge count (E) : ranging from V-1 to (V(V+1)/2)
+D. Weighted? : No
 
 Using the above choices, this component generates a single file that contains all possible combinations of graph input configurations. This file forms the input to the Graph Generator.
 
@@ -73,7 +73,7 @@ In Linux box:
 
 5. Execute "python scriptforvcis.py" command from Graph_generator directory. Change the paths as required in this script. :) This command will generate a bunch of files in "OutVCIS" folder.
 
-6. Copy the contents of this "OutVCIS" folder and copy them in "~\BudgetHubAlgoRunner\BudgetHubAlgoRunner\bin\Debug\OutVCIS" folder in Windows machine. Also copy the contents of "Data" folder from Linux into "~\BudgetHubAlgoRunner\BudgetHubAlgoRunner\bin\Debug\Data" folder in Windows.
+6. Copy the contents of this "OutVCIS" folder and copy them in "~\BudgetHubAlgoRunner\BudgetHubAlgoRunner\bin\Debug\OutVCIS" folder in Windows machine. Also copy the contents of "Data" folder from Linux into "\BudgetHubAlgoRunner\BudgetHubAlgoRunner\bin\Debug\Data" folder in Windows.
 
 In Windows Box:
 
