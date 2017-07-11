@@ -1,0 +1,6 @@
+D:\Masters\Capstone\code (2)\BudgetHubProject\Windows\BudgetHubAlgoRunner\BudgetHubAlgoRunner\bin\Debug\BudgetHubAlgoRunner.exe.config
+D:\Masters\Capstone\code (2)\BudgetHubProject\Windows\BudgetHubAlgoRunner\BudgetHubAlgoRunner\bin\Debug\BudgetHubAlgoRunner.exe
+D:\Masters\Capstone\code (2)\BudgetHubProject\Windows\BudgetHubAlgoRunner\BudgetHubAlgoRunner\bin\Debug\BudgetHubAlgoRunner.pdb
+D:\Masters\Capstone\code (2)\BudgetHubProject\Windows\BudgetHubAlgoRunner\BudgetHubAlgoRunner\obj\Debug\BudgetHubAlgoRunner.csprojResolveAssemblyReference.cache
+D:\Masters\Capstone\code (2)\BudgetHubProject\Windows\BudgetHubAlgoRunner\BudgetHubAlgoRunner\obj\Debug\BudgetHubAlgoRunner.exe
+D:\Masters\Capstone\code (2)\BudgetHubProject\Windows\BudgetHubAlgoRunner\BudgetHubAlgoRunner\obj\Debug\BudgetHubAlgoRunner.pdb
